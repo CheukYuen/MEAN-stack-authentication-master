@@ -8,5 +8,10 @@ MEAN stack login system
 ## Installation
 
 1. Install the application: `npm install`
+2. Start MongoDB: `mongod`
 2. Start the server: `npm start` or `node ./bin/www`
 3. View in browser at `http://localhost:3000`
+
+## Development
+
+1. Minify: `gulp default`
